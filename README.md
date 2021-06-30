@@ -1,5 +1,6 @@
 # Patent-5-year-citation-dataset-creation
 Forward citation within 5 years since grant of (almost) all patents granted by USPTO up to 2021
+Download link: https://drive.google.com/file/d/1g8TShLAIlf7AnNisdHI0k1OCAAW9A_0t/view?usp=sharing
 
 For this project, citation level labels are created as follows.
 1. From the patent dataset from PatentView, I extracted all the pairs of id of citing patent  and id of cited patent.
